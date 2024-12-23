@@ -17,7 +17,7 @@
   "dependencies": {
     "@jsonforms/core": "^3.2.1",
     "@jsonforms/vue": "^3.2.1",
-    "@quasar/extras": "^1.16.13",
+    "@quasar/extras": "^1.16.15",
     "@vueuse/core": "^11.0.0",
     "pinia": "^2.1.7",
     "qrcode": "^1.5.3",
