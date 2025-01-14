@@ -109,5 +109,6 @@
   "Looking for the default password or issues signing in?": "デフォルトのパスワードまたはサインイン時の問題をお探しですか？",
   "Check the documentation.": "ドキュメントを確認してください。",
   "Battery": "バッテリー",
-  "System Temperatures": "システム温度"
+  "System Temperatures": "システム温度",
+  "Backend Index: ": "バックエンドインデックス: "
 }

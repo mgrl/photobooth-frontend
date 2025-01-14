@@ -109,5 +109,6 @@
   "Looking for the default password or issues signing in?": "Hledáte výchozí heslo nebo problémy s přihlášením?",
   "Check the documentation.": "Zkontrolujte dokumentaci.",
   "Battery": "Baterie",
-  "System Temperatures": "Systémové teploty"
+  "System Temperatures": "Systémové teploty",
+  "Backend Index: ": "Index backendu: "
 }

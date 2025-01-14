@@ -109,5 +109,6 @@
   "Looking for the default password or issues signing in?": "Ser du etter standard passord eller problemer med å logge inn?",
   "Check the documentation.": "Sjekk dokumentasjonen.",
   "Battery": "Batteri",
-  "System Temperatures": "Temperaturer i systemet"
+  "System Temperatures": "Temperaturer i systemet",
+  "Backend Index: ": "Backend indeks: "
 }

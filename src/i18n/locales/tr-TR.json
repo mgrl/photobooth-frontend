@@ -109,5 +109,6 @@
   "Looking for the default password or issues signing in?": "Varsayılan şifreyi mi arıyorsunuz veya oturum açarken sorun mu yaşıyorsunuz?",
   "Check the documentation.": "Belgeleri kontrol edin.",
   "Battery": "Akü",
-  "System Temperatures": "Sistem Sıcaklıkları"
+  "System Temperatures": "Sistem Sıcaklıkları",
+  "Backend Index: ": "Arka Uç Dizini: "
 }

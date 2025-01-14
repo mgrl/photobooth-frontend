@@ -109,5 +109,6 @@
   "Looking for the default password or issues signing in?": "Op zoek naar het standaard wachtwoord of problemen bij inloggen?",
   "Check the documentation.": "Controleer de documentatie.",
   "Battery": "Accu",
-  "System Temperatures": "Systeem temperatuur"
+  "System Temperatures": "Systeem temperatuur",
+  "Backend Index: ": "Backend index: "
 }

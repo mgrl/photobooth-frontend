@@ -109,5 +109,6 @@
   "Looking for the default password or issues signing in?": "Шукаєте логін за замовчуванням або проблеми заново?",
   "Check the documentation.": "Перевірте документацію.",
   "Battery": "Батарея",
-  "System Temperatures": "Системні температури"
+  "System Temperatures": "Системні температури",
+  "Backend Index: ": "Індекс сервера: "
 }

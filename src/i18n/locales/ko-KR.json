@@ -109,5 +109,6 @@
   "Looking for the default password or issues signing in?": "기본 비밀번호를 찾지 못했거나 로그인에 문제가 있나요?",
   "Check the documentation.": "문서를 확인하세요.",
   "Battery": "배터리",
-  "System Temperatures": "시스템 온도"
+  "System Temperatures": "시스템 온도",
+  "Backend Index: ": "백엔드 인덱스: "
 }

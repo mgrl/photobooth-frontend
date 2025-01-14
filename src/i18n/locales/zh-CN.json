@@ -109,5 +109,6 @@
   "Looking for the default password or issues signing in?": "正在查找默认密码或登录问题？",
   "Check the documentation.": "检查文档。",
   "Battery": "电量：",
-  "System Temperatures": "系统温度"
+  "System Temperatures": "系统温度",
+  "Backend Index: ": "后端索引： "
 }

@@ -105,9 +105,10 @@
   "Host": "System",
   "Sign in": "Anmelden",
   "Sign out": "Abmelden",
-  "Sign in below to access the admin dashboard.": "Melden Sie sich unten an, um auf das Admin-Dashboard zuzugreifen.",
-  "Looking for the default password or issues signing in?": "Suchen Sie das Standardpasswort oder haben Probleme beim Anmelden?",
-  "Check the documentation.": "Prüfe die Dokumentation.",
+  "Sign in below to access the admin dashboard.": "Melde dich unten an, um auf das Admin-Dashboard zuzugreifen.",
+  "Looking for the default password or issues signing in?": "Du suchst das Standardpasswort oder hast Probleme bei der Anmeldung?",
+  "Check the documentation.": "Schau in die Dokumentation.",
   "Battery": "Akku",
-  "System Temperatures": "Systemtemperaturen"
+  "System Temperatures": "Systemtemperaturen",
+  "Backend Index: ": "Backend-Index: "
 }

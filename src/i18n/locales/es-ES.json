@@ -109,5 +109,6 @@
   "Looking for the default password or issues signing in?": "¿Busca la contraseña por defecto o problemas al iniciar sesión?",
   "Check the documentation.": "Revisa la documentación.",
   "Battery": "Batería",
-  "System Temperatures": "Temperaturas del sistema"
+  "System Temperatures": "Temperaturas del sistema",
+  "Backend Index: ": "Índice de backend: "
 }

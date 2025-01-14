@@ -109,5 +109,6 @@
   "Looking for the default password or issues signing in?": "Az alapértelmezett jelszót keresi, vagy problémái vannak a bejelentkezéssel?",
   "Check the documentation.": "Ellenőrizze a dokumentációt.",
   "Battery": "Akkumulátor",
-  "System Temperatures": "Rendszerhőmérsékletek"
+  "System Temperatures": "Rendszerhőmérsékletek",
+  "Backend Index: ": "Backend index: "
 }

@@ -109,5 +109,6 @@
   "Looking for the default password or issues signing in?": "Cauți parola implicită sau autentificarea cu probleme?",
   "Check the documentation.": "Verificați documentația.",
   "Battery": "Baterie",
-  "System Temperatures": "Temperaturi sistem"
+  "System Temperatures": "Temperaturi sistem",
+  "Backend Index: ": "Indicele de backend: "
 }

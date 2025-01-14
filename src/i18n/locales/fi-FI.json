@@ -109,5 +109,6 @@
   "Looking for the default password or issues signing in?": "Etsitkö oletussalasanaa tai ongelmia kirjautuessa?",
   "Check the documentation.": "Tarkista dokumentaatio.",
   "Battery": "Akku",
-  "System Temperatures": "Järjestelmän Lämpötilat"
+  "System Temperatures": "Järjestelmän Lämpötilat",
+  "Backend Index: ": "Taustaosan Indeksi: "
 }
