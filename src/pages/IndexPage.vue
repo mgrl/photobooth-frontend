@@ -135,6 +135,8 @@ const triggerButtons = computed(() => {
         show_button: action.trigger.ui_trigger.show_button,
         title: action.trigger.ui_trigger.title,
         icon: action.trigger.ui_trigger.icon,
+        use_custom_color: action.trigger.ui_trigger.use_custom_color,
+        custom_color: action.trigger.ui_trigger.custom_color,
       }
 
       result.push(trigger)

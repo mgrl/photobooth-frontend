@@ -4,11 +4,12 @@
       <q-btn
         v-if="trigger.show_button && !(isEmpty(trigger.title) && isEmpty(trigger.icon))"
         stack
-        color="primary"
+        :color="trigger.use_custom_color ? 'custom' : 'primary'"
         no-caps
         rounded
         class="action-button col-auto glass-effect"
         :class="['action-button-' + index]"
+        :style="{ '--bg-custom': trigger.use_custom_color ? trigger.custom_color : null }"
         @click="triggerButtonClick(trigger.action, trigger.config_index)"
       >
         <q-icon v-if="!isEmpty(trigger.icon)" :name="`sym_o_${trigger.icon}`" />
@@ -31,6 +32,8 @@ export interface TriggerSchema {
   icon?: string // icon is optional
   action: string
   config_index: number
+  use_custom_color: boolean
+  custom_color: string
 }
 
 const emit = defineEmits<{

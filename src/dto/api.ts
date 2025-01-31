@@ -2888,6 +2888,18 @@ export interface components {
              * @default
              */
             icon: string;
+            /**
+             * Use custom color
+             * @description Use custom color instead of Primary color
+             * @default
+             */
+            use_custom_color: boolean;
+            /**
+             * Custom color
+             * @description Custom color used instead of Primary color
+             * @default
+             */
+            custom_color: string;
         };
         /** User */
         User: {

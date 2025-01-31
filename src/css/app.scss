@@ -69,6 +69,10 @@ h6 {
   &.bg-grey {
     background: color-mix(in srgb, var(--q-grey) 50%, transparent) !important;
   }
+
+  &.bg-custom {
+    background: color-mix(in srgb, var(--bg-custom) 40%, transparent) !important;
+  }
 }
 
 .toolbar {
