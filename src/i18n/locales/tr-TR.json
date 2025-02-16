@@ -133,5 +133,6 @@
   "Reload services": "Yeniden yükleme hizmetleri",
   "Service": "Hizmet",
   "Reboot Host": "Ana Bilgisayarı Yeniden Başlat",
-  "Shutdown Host": "Kapatma Ana Bilgisayarı"
+  "Shutdown Host": "Kapatma Ana Bilgisayarı",
+  "Frontend build date": "Ön uç oluşturma tarihi"
 }

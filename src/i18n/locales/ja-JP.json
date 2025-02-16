@@ -133,5 +133,6 @@
   "Reload services": "サービスの再読み込み",
   "Service": "サービス",
   "Reboot Host": "ホストを再起動",
-  "Shutdown Host": "Shutdown Host"
+  "Shutdown Host": "シャットダウンホスト",
+  "Frontend build date": "Frontend build date"
 }

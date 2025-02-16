@@ -133,5 +133,6 @@
   "Reload services": "Recargar servicios",
   "Service": "Servicio",
   "Reboot Host": "Reiniciar Host",
-  "Shutdown Host": "Shutdown Host"
+  "Shutdown Host": "Servidor apagado",
+  "Frontend build date": "Fecha de construcción del Frontend"
 }

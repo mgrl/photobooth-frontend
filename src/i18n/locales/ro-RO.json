@@ -133,5 +133,6 @@
   "Reload services": "Reîncarcă serviciile",
   "Service": "Serviciu",
   "Reboot Host": "Repornire Host",
-  "Shutdown Host": "Shutdown Host"
+  "Shutdown Host": "Gazdă de oprire",
+  "Frontend build date": "Data construirii frontend"
 }

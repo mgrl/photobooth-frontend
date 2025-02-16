@@ -133,5 +133,6 @@
   "Reload services": "Genindlæs tjenester",
   "Service": "Tjeneste",
   "Reboot Host": "Genstart Vært",
-  "Shutdown Host": "Shutdown Host"
+  "Shutdown Host": "Nedlukning Vært",
+  "Frontend build date": "Frontend byggedato"
 }

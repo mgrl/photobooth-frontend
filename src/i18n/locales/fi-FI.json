@@ -133,5 +133,6 @@
   "Reload services": "Uudelleenlataus palvelut",
   "Service": "Palvelu",
   "Reboot Host": "Käynnistä Isäntä Uudelleen",
-  "Shutdown Host": "Shutdown Host"
+  "Shutdown Host": "Sammuta Isäntä",
+  "Frontend build date": "Julkisivun rakennuspäivämäärä"
 }

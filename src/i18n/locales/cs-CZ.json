@@ -133,5 +133,6 @@
   "Reload services": "Znovu načíst",
   "Service": "Servis",
   "Reboot Host": "Restartovat hostitele",
-  "Shutdown Host": "Shutdown Host"
+  "Shutdown Host": "Vypnutí hostitele",
+  "Frontend build date": "Datum sestavení frontendu"
 }

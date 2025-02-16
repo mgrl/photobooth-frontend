@@ -133,5 +133,6 @@
   "Reload services": "Dienste neu laden",
   "Service": "Service",
   "Reboot Host": "Host neu starten",
-  "Shutdown Host": "Shutdown Host"
+  "Shutdown Host": "Host herunterfahren",
+  "Frontend build date": "Frontend Build-Datum"
 }

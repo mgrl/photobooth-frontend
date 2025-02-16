@@ -133,5 +133,6 @@
   "Reload services": "서비스 다시 로드",
   "Service": "서비스",
   "Reboot Host": "호스트 재부팅",
-  "Shutdown Host": "호스트 종료"
+  "Shutdown Host": "호스트 종료",
+  "Frontend build date": "프론트엔드 빌드 날짜"
 }

@@ -133,5 +133,6 @@
   "Reload services": "Oppdater tjenester",
   "Service": "Tjeneste",
   "Reboot Host": "Omstart vert",
-  "Shutdown Host": "Shutdown Host"
+  "Shutdown Host": "Avslutt vert",
+  "Frontend build date": "byggedato for brukersiden"
 }

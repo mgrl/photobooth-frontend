@@ -133,5 +133,6 @@
   "Reload services": "crwdns428:0crwdne428:0",
   "Service": "crwdns430:0crwdne430:0",
   "Reboot Host": "crwdns432:0crwdne432:0",
-  "Shutdown Host": "crwdns434:0crwdne434:0"
+  "Shutdown Host": "crwdns434:0crwdne434:0",
+  "Frontend build date": "crwdns436:0crwdne436:0"
 }

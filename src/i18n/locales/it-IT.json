@@ -133,5 +133,6 @@
   "Reload services": "Ricarica servizi",
   "Service": "Servizio",
   "Reboot Host": "Riavvia Host",
-  "Shutdown Host": "Shutdown Host"
+  "Shutdown Host": "Arresto Host",
+  "Frontend build date": "Data di compilazione Frontend"
 }

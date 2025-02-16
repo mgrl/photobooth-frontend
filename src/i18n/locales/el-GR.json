@@ -133,5 +133,6 @@
   "Reload services": "Επαναφόρτωση υπηρεσιών",
   "Service": "Υπηρεσία",
   "Reboot Host": "Επανεκκίνηση Υπολογιστή",
-  "Shutdown Host": "Shutdown Host"
+  "Shutdown Host": "Τερματισμός Υπολογιστή",
+  "Frontend build date": "Ημ/νία δημιουργίας καταστήματος"
 }

@@ -133,5 +133,6 @@
   "Reload services": "Újratöltési szolgáltatások",
   "Service": "Szolgáltatás",
   "Reboot Host": "Reboot Host",
-  "Shutdown Host": "Shutdown Host"
+  "Shutdown Host": "Shutdown Host",
+  "Frontend build date": "Frontend építési dátuma"
 }
