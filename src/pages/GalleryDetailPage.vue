@@ -15,7 +15,7 @@
         <DrawerFilter
           v-if="rightDrawerOpen"
           :id="currentMediaitem.id"
-          :available-filter="configurationStore.configuration.uisettings.gallery_filter_userselectable"
+          :available-filter="getAvailableFilters"
           @trigger-apply-filter="doApplyFilter"
         ></DrawerFilter>
       </q-drawer>
@@ -160,6 +160,16 @@ const getMediaitemById = (id: string) => {
 const getFilterAvailable = (media_type: string) => {
   return ['image', 'collageimage', 'animationimage'].includes(media_type)
 }
+
+const getAvailableFilters = computed(() => {
+  if( configurationStore.configuration.mediaprocessing.filtertype == 'pilgram2') {
+      return configurationStore.configuration.uisettings.gallery_filter_userselectable
+  }
+  else if(configurationStore.configuration.mediaprocessing.filtertype == 'stablediffusion') {
+      return configurationStore.configuration.uisettings.gallery_filter_stablediffusion_userselectable
+  }
+  return []
+})
 
 const doApplyFilter = (id: string, filter: string) => {
   displayIndeterminateProgressbar.value = true

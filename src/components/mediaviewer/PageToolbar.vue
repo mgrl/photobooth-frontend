@@ -87,7 +87,7 @@ const props = defineProps<{
   images_total?: number
   showDownload: boolean
   showDelete: boolean
-  showFilter: boolean
+  showFilter: components['schemas']['GroupUiSettings']['gallery_show_filter']
   showShare: boolean
   shareDirectAccessButtons: number
   shareButtons: ShareSchema[]
